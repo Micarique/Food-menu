@@ -9,7 +9,7 @@
 
 A implementação do backend foi desenvolvida com base no conteúdo do vídeo [Construindo aplicação Fullstack do ZERO](https://youtu.be/lUVureR5GqI?si=d-fHBagSO6bjX58G). aplicação foi desenvolvida usando **Java Spring, Lombok, Flyway e banco de dados PostgreSQL.** e simula um servidor que armazena informações de um cardápio digital no banco de dados.
 
-**OBJETIVO:** Explorar a criação de um servidor com **Java Spring e Spring MVC**, a manipulação e persistência de dados com o **Spring Data JPA**, a geração de boilerplates com o **Lombok** e a conexão com banco de dados Postgres através do **Postgres Driver**.
+**OBJETIVO:** Explorar a criação de um servidor com **Java Spring e Spring MVC**, a manipulação e persistência de dados com o **Spring Data JPA**, a geração de boilerplates com o **Lombok**, a conexão com banco de dados Postgres através do **Postgres Driver** e o gerenciamento e versionamento de mudanças no esquema do banco de dados através do **Flyway**.
 
 Esta parte do projeto é responsável pela criação do servidor e manipulação do banco de dados do cardápio.
 
