@@ -19,7 +19,7 @@
 
 ***Frontend:*** React, React Query e Typescript
 
-***Backend:*** Spring, Lombok, Flyway e Postgresql
+***Backend:*** Spring, Spring Data JPA, Lombok, Flyway e Postgresql
 
 <h2 id="objective">🚀 Objetivo</h2>
 Explorar a criação de uma aplicação completa, moderna e eficiente, com uma arquitetura bem definida, fácil de escalar, testar e manter ao longo do tempo, proporcionando uma boa experiência tanto para os desenvolvedores quanto para os usuários finais.
