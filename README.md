@@ -30,10 +30,13 @@ Backend [tutorial no YouTube](https://www.youtube.com/watch?v=lUVureR5GqI&t=1801
 
 Frontend [tutorial no YouTube](https://www.youtube.com/watch?v=WHruc3_2z68&t=2s)
 
-<h2 id="media">👉 Portfólio</h2>
+*Observação: As pastas `frontend` e `backend` também possuem arquivos `README`, onde ficam localizadas explicações mais segmentadas e os requisitos de instalação para cada parte do projeto.
+<h2 id="media">👉 Outros projetos</h2>
 
 [Github](https://github.com/Micarique)
 
 <h2 id="license">📝 Licença</h2>
 
 Este projeto está licenciado sob a licença MIT. Consulte o arquivo `LICENSE` para obter mais informações.
+
+
