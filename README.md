@@ -5,7 +5,6 @@
   <a href="#technologies">Tecnologias</a> •
   <a href="#objective">Objetivo</a> •
   <a href="#reference">Referências</a> •
-  <a href="#media">Outros projetos</a> •
   <a href="#license">Licença</a> 
 </p>
 
@@ -31,10 +30,6 @@ Backend [tutorial no YouTube](https://www.youtube.com/watch?v=lUVureR5GqI&t=1801
 Frontend [tutorial no YouTube](https://www.youtube.com/watch?v=WHruc3_2z68&t=2s)
 
 *Observação: As pastas `frontend` e `backend` também possuem arquivos `README`, onde ficam localizadas explicações mais segmentadas e os requisitos de instalação para cada parte do projeto.
-
-<h2 id="media">👉 Outros projetos</h2>
-
-[Github](https://github.com/Micarique)
 
 <h2 id="license">📝 Licença</h2>
 
